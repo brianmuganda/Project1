@@ -6,4 +6,9 @@ html {
 }
 body {
     display: flex;
+    flex-direction: column;
+}
+.achievements {
+    display: inherit;
+    justify-content: space-around;
 }
