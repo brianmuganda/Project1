@@ -1,3 +1,9 @@
 .html, .css{
     border-bottom: 3px solid black;
 }
+html {
+    font-family: sans-serif;
+}
+body {
+    display: flex;
+}
